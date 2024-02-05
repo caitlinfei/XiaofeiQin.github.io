@@ -585,12 +585,12 @@ body {
 
 @font-face {
     font-family: 'Rottering';
-    src: url(font/rottering-p7dar.woff) format('woff');
+    src: url(rottering-p7dar.woff) format('woff');
 }
 
 @font-face {
     font-family: 'Destine';
-    src: url(font/destinepersonaluseregular-6yaev.woff) format('woff');
+    src: url(destinepersonaluseregular-6yaev.woff) format('woff');
 }
 
 @keyframes bobbing {
