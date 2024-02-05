@@ -588,10 +588,10 @@ body {
     src: url(rottering-p7dar.woff) format('woff');
 }
 
-@font-face {
+/*@font-face {
     font-family: 'Destine';
     src: url(destinepersonaluseregular-6yaev.woff) format('woff');
-}
+}*/
 
 @keyframes bobbing {
   from {
