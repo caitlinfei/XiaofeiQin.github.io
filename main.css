@@ -593,10 +593,11 @@ body {
   to {
     transform: translateY(-30px); /* Adjust the bobbing distance as needed */
   }
-}
+} 
 
 
 @media screen and (max-width: 481px){
+    
     body{
         width:100%;
     }
