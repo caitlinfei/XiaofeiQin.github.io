@@ -95,7 +95,7 @@ body {
     position: relative;
     top:190px;
     color:#784212;
-    font-size:15px;
+    font-size:20px;
     font-family: Arial, sans-serif;
     width: 1200px;
 }
@@ -466,7 +466,7 @@ body {
     top:23%;
     left:10%;
     color:#784212;
-    font-size:25px;
+    font-size:20px;
     font-family: Arial, sans-serif;
     width:50%;
 }
@@ -485,7 +485,7 @@ body {
     top:48%;
     left:30%;
     color:#784212;
-    font-size:25px;
+    font-size:20px;
     font-family: Arial, sans-serif;
     width:56%;
 }
@@ -504,7 +504,7 @@ body {
     top:77%;
     left:48%;
     color:#784212;
-    font-size:25px;
+    font-size:20px;
     font-family: Arial, sans-serif;
     width:45%;
 }
