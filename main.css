@@ -463,7 +463,7 @@ body {
 
 #global-text {
     position:absolute;
-    top:23%;
+    top:25%;
     left:10%;
     color:#784212;
     font-size:20px;
@@ -482,7 +482,7 @@ body {
 
 #justice-text {
     position:absolute;
-    top:48%;
+    top:50%;
     left:30%;
     color:#784212;
     font-size:20px;
@@ -501,7 +501,7 @@ body {
 
 #feminism-text {
     position:absolute;
-    top:77%;
+    top:81%;
     left:48%;
     color:#784212;
     font-size:20px;
