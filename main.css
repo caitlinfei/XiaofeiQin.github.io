@@ -309,7 +309,7 @@ body {
 
 .map-image {
     display: block;
-    width: 100%;
+    width: 120%;
     height: auto;
     background-position: center;
 }
@@ -348,7 +348,7 @@ body {
 .info-container {
     position: absolute;
     top:18%;
-    left:38%;
+    left:35%;
     width: 24%;
     height: 270px;
     overflow: hidden;
@@ -356,7 +356,7 @@ body {
 
 .info-image {
     display: block;
-    width: 100%;
+    width: 120%;
     background-position: center;   
 }
 
