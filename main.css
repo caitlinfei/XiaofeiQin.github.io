@@ -302,7 +302,7 @@ body {
     position: absolute;
     top:18%;
     left:10%;
-    width: 25%;
+    width: 24%;
     height: 270px;
     overflow: hidden;
 }
@@ -348,8 +348,8 @@ body {
 .info-container {
     position: absolute;
     top:18%;
-    left:40%;
-    width: 25%;
+    left:38%;
+    width: 24%;
     height: 270px;
     overflow: hidden;
 }
@@ -393,8 +393,8 @@ body {
 .publication-container {
     position: absolute;
     top:18%;
-    left:65%;
-    width: 25%;
+    left:64%;
+    width: 24%;
     height: 270px;
     overflow: hidden;
 }
